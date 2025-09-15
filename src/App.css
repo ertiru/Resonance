@@ -514,7 +514,7 @@
 
   .choose .seti {
     margin-top: -50px;
-    margin-right: 120px;
+    right: 50%;
   }
   .infos {
     flex-direction: column;

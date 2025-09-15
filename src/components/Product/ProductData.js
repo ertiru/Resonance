@@ -60,7 +60,7 @@ const specs = [
   },
   {
     name: microphone,
-    desc: "5 microphones total                  ",
+    desc: "5 dynamic microphones total ",
   },
 ];
 const specs2 = [
