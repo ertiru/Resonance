@@ -1,4 +1,3 @@
-import React from "react";
 import Tekst from "../Teksti/Tekst";
 import logo from "../../assets/Logo.png";
 import DiscordLogo from "../../assets/DiscordLogo.png";

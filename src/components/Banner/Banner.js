@@ -1,4 +1,3 @@
-import React from "react";
 import headphones from "../../assets/headphones.png";
 
 const Banner = () => {

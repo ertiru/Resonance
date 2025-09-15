@@ -1,7 +1,5 @@
-import React from "react";
 import logo from "../../assets/Logo.png";
 import { Link } from "react-router-dom";
-import Hamburger from "../../components/Hamburger/Hamburger";
 
 const Header = () => {
   return (

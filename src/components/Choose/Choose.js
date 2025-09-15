@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import greenset from "../../assets/greenset.png";
 import redset from "../../assets/redset.png";
 import yellowset from "../../assets/yellowset.png";
