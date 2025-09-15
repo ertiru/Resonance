@@ -9,7 +9,8 @@ const Footer = () => {
     <div className="footer">
       <div className="container">
         <Tekst
-          heading2="Sound.Presence.Purpose."
+          heading2="Sound.Presence.
+          Purpose."
           spec2="Focused on crafting immersive audio experiences."
           spec3="We believe sound should not just be heard—it should move you."
         />
