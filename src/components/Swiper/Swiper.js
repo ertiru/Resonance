@@ -9,7 +9,7 @@ const SelectHeadphones = () => {
       spaceBetween={16}
       slidesPerView={1.2}
       breakpoints={{
-        320: { slidesPerView: 1.2 },
+        320: { slidesPerView: 1.1 },
         768: { slidesPerView: 1.2 },
       }}
     >

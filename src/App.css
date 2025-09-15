@@ -428,7 +428,7 @@
   }
   .banneri .container {
     flex-direction: column;
-    padding-top: 60px;
+    padding-top: 45px;
   }
 
   .banneri .texti {
@@ -447,7 +447,7 @@
     width: 420px;
     height: auto;
     z-index: 0;
-    margin-top: -40px;
+    margin-top: -20px;
   }
   .teksti .container {
     padding: 80px;
@@ -461,6 +461,13 @@
   }
   .color {
     font-size: 18px;
+  }
+  .details img {
+    width: 320px;
+    height: 320px;
+  }
+  .offer .container {
+    height: 80vh;
   }
   .slide1,
   .slide3 {
