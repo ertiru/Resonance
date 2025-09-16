@@ -269,7 +269,6 @@
 .row1 {
   display: flex;
   justify-content: center;
-  margin-top: -30px;
 }
 .type {
   margin: 0px 20px;
@@ -424,7 +423,7 @@
 
   .banneri .container {
     flex-direction: column;
-    padding-top: 45px;
+    padding-top: 25px;
   }
 
   .banneri .texti {
@@ -499,7 +498,7 @@
     font-size: 24px;
   }
   .row1 {
-    padding-bottom: 30px;
+    padding: 20px 0px;
   }
   .logo2 {
     display: none;
@@ -513,13 +512,12 @@
   }
 
   .choose .seti {
-    margin-top: -70px;
-    right: 50%;
+    margin-top: -50px;
+    left: -50%;
   }
   .infos {
     flex-direction: column;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding: 40px 20px;
   }
   .infos h1 {
     width: 75%;
@@ -655,4 +653,7 @@
 
 .menuToggle input:checked ~ ul {
   transform: translate(0, 0);
+}
+.menuToggle:has(input:checked) {
+  position: fixed;
 }
