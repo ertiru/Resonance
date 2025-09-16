@@ -446,7 +446,7 @@
     margin-top: -20px;
   }
   .teksti .container {
-    padding: 80px;
+    padding: 30px;
   }
   .teksti h1,
   .teksti h2 {
@@ -513,20 +513,21 @@
   }
 
   .choose .seti {
-    margin-top: -50px;
+    margin-top: -70px;
     right: 50%;
   }
   .infos {
     flex-direction: column;
     padding-top: 40px;
     padding-bottom: 40px;
-    padding-left: 70px;
   }
   .infos h1 {
     width: 75%;
+    margin: 0;
   }
   .infos p {
     width: 100%;
+    line-height: 40px;
   }
   .foto {
     width: 150px;
